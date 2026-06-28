@@ -1,0 +1,106 @@
+.nav-link {
+    color: #FA0D44;
+}
+
+
+.fundo-rosa {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #FF88A4;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+
+.imagem-grande {
+
+    width: 100%;
+    border-radius: 4%
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-right: 100px;
+
+}
+
+
+.card-title {
+    font-size: xxx-large;
+    padding-bottom: 20px;
+    color: white
+}
+
+.card-text {
+    padding-bottom: 20px;
+    color: white
+}
+
+.btn {
+    width: 150px;
+    font-size: large;
+
+}
+
+
+.frase-rosa {
+    color: #FA0D44;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+.quadros {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.pai-do-botao {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.botao-rosa {
+    width: 300px;
+    background-color: #FF88A4;
+    color: white;
+    margin: 20px;
+}
+
+.fundo-branco2 {
+    padding-bottom: 30px;
+}
+
+.fundo-inferior {
+    background-color: #FF88A4;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.caixa-mensagem {
+    margin-top: 20px;
+    width: 80%;
+    height: 200px;
+}
+
+.rodape {
+    color: #FA0D44;
+}
